@@ -1,5 +1,7 @@
 Pulls your local forecast (temp in celsius) from a weather API, and sends it to a device of your choice.
 
+_(Somebody has probably built a better version, but if you want to use this one, instructions are below.)_
+
 **Steps To Set Up**
 1. Download "weathermsg.py" from the repo above
 2. Sign up to [WeatherAPI.com](https://weatherapi.com). Follow the documentation, and fill in the blanks in the code with your API key in "weather_params"
