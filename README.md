@@ -4,7 +4,7 @@ _(Somebody has probably built a better version, but if you want to use this one,
 
 **Steps To Set Up**
 1. Download "weathermsg.py" from the repo above
-2. Sign up to [WeatherAPI.com](https://weatherapi.com). Follow the documentation, and assign your API key to weather_key.
+2. Sign up to [WeatherAPI.com](https://weatherapi.com). Follow the documentation, and assign your API key to weather_key
 3. Find your latitude and longitude (I used [LatLong](https://www.latlong.net/)), and assign to your_lat and your_lon
 4. Sign up for [Pushover](https://pushover.net/), and assign your API token and user key to pushover_token and pushover_key respectively
 5. Assign your first name to your_first_name variable
